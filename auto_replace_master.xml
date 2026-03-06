@@ -6,8 +6,7 @@
 <map>
 
 <!-- ==========================================
-     CATEGORY 1: GENERAL WELCOMES (w1 - w10)
-     Use these for general greeting to the room.
+     CATEGORY 1: GENERAL WELCOMES (w1 - w20)
      ========================================== -->
 <key>w1</key>
 <string>✧   ＷＥＬＣＯＭＥ ＴＯ ＴＨＥ ＮＩＧＨＴ   ✧   ──   Step in, let go, and let the music take over.</string>
@@ -28,11 +27,31 @@
 <key>w9</key>
 <string>▱   ＴＨＥ ＳＡＮＣＴＵＡＲＹ   ▱   ──   Checking coats at the door, but keep your energy on. Welcome.</string>
 <key>w10</key>
-<string>⚡   ＩＧＮＩＴＩＯＮ   ⚡   ──   The room is filling up and look gorgeous. Welcome to the party.</string>
+<string>⚡   ＩＧＮＩＴＩＯＮ   ⚡   ──   The room is filling up and looks gorgeous. Welcome to the party.</string>
+<key>w11</key>
+<string>◈   ＡＵＲＡ ＡＣＴＩＶＡＴＥＤ   ◈   ──   The frequency shifts the moment you walk in. Welcome.</string>
+<key>w12</key>
+<string>▸   ＤＯＯＲＳ ＡＲＥ ＯＰＥＮ   ▸   ──   No dress code, just good energy. Welcome to the floor.</string>
+<key>w13</key>
+<string>◇   ＭＡＸＩＭＵＭ ＣＡＰＡＣＩＴＹ   ◇   ──   The room is filling up with the finest crowd on the grid. Welcome.</string>
+<key>w14</key>
+<string>⟐   ＳＩＧＮＡＬ ＬＯＣＫＥＤ   ⟐   ──   You are now tuned into the right frequency. Welcome in.</string>
+<key>w15</key>
+<string>✶   ＧＲＡＮＤ ＥＮＴＲＡＮＣＥ   ✶   ──   The ambiance just leveled up with every new arrival. Welcome.</string>
+<key>w16</key>
+<string>▣   ＣＨＥＣＫ ＩＮ   ▣   ──   Consider this your velvet rope moment. You are on the list. Welcome.</string>
+<key>w17</key>
+<string>◉   ＡＲＲＩＶＡＬ ＤＥＴＥＣＴＥＤ   ◉   ──   Our sensors confirm: excellent taste has entered the building.</string>
+<key>w18</key>
+<string>⊞   ＮＥＷ ＥＮＥＲＧＹ ＬＯＡＤＥＤ   ⊞   ──   Fresh vibes, familiar faces. Welcome to the experience.</string>
+<key>w19</key>
+<string>▹   ＣＯＭＥ ＡＳ ＹＯＵ ＡＲＥ   ▹   ──   No pretense. Just presence. Welcome to the night.</string>
+<key>w20</key>
+<string>◎   ＦＵＬＬ ＨＯＵＳＥ   ◎   ──   Every arrival raises the bar. And tonight, the bar is already sky-high. Welcome.</string>
 
 <!-- ==========================================
-     CATEGORY 2: VIP / PERSONALIZED WELCOMES (vw1 - vw10)
-     Use these for tailored greetings. Replace [Name].
+     CATEGORY 2: VIP / PERSONALIZED WELCOMES (vw1 - vw20)
+     Replace [Name].
      ========================================== -->
 <key>vw1</key>
 <string>👑   Ｖ．Ｉ．Ｐ． ＡＲＲＩＶＡＬ   👑   ──   The room just got an upgrade. Welcome back to the floor, [Name].</string>
@@ -54,10 +73,29 @@
 <string>🍷   ＴＯＰ ＴＩＥＲ   🍷   ──   Pouring one out for the arrival of [Name]. Step right in.</string>
 <key>vw10</key>
 <string>💿   ＳＥＬＥＣＴＯＲＳ ＣＨＯＩＣＥ   💿   ──   The DJ sees you, [Name]. Get ready to move.</string>
+<key>vw11</key>
+<string>⚡   ＥＬＥＣＴＲＩＣ ＥＮＴＲＹ   ⚡   ──   [Name] just plugged in and the whole room lit up. Welcome.</string>
+<key>vw12</key>
+<string>🌌   ＳＴＡＲ ＰＯＷＥＲ   🌌   ──   The constellation of tonight is incomplete without [Name]. Welcome.</string>
+<key>vw13</key>
+<string>🏆   ＨＡＬＬ ＯＦ ＦＡＭＥ   🏆   ──   Certified legendary presence. Welcome back, [Name].</string>
+<key>vw14</key>
+<string>🎯   ＰＥＲＦＥＣＴ ＴＩＭＩＮＧ   🎯   ──   Right on cue, as always. Good to see you, [Name].</string>
+<key>vw15</key>
+<string>✦   ＲＡＤＩＡＮＣＥ   ✦   ──   [Name] walked in and the room got noticeably brighter. Welcome.</string>
+<key>vw16</key>
+<string>🔑   ＫＥＹ ＰＬＡＹＥＲ   🔑   ──   No event is complete without you, [Name]. Welcome to the floor.</string>
+<key>vw17</key>
+<string>🦋   ＭＡＩＮ ＣＨＡＲＡＣＴＥＲ   🦋   ──   The protagonist of tonight's storyline has arrived. Welcome, [Name].</string>
+<key>vw18</key>
+<string>🎪   ＳＨＯＷＴＩＭＥ   🎪   ──   The headliner is here. [Name], the stage is set for you.</string>
+<key>vw19</key>
+<string>💫   ＭＡＧＮＥＴＩＣ   💫   ──   [Name] pulls the whole room in. That is what we call presence. Welcome.</string>
+<key>vw20</key>
+<string>🪩   ＤＩＳＣＯ ＲＯＹＡＬＴＹ   🪩   ──   All rise. [Name] has entered the dancefloor. Welcome back.</string>
 
 <!-- ==========================================
-     CATEGORY 3: VIBE & DANCEFLOOR (vibe1 - vibe15)
-     Use these to hype the atmosphere and encourage dancing.
+     CATEGORY 3: VIBE & DANCEFLOOR (vibe1 - vibe30)
      ========================================== -->
 <key>vibe1</key>
 <string>〰️   ＦＥＥＬ ＴＨＥ ＦＲＥＱＵＥＮＣＹ   〰️   ──   Let the bass guide your movements.</string>
@@ -89,10 +127,39 @@
 <string>🔥   ＴＥＭＰＥＲＡＴＵＲＥ ＲＩＳＩＮＧ   🔥   ──   The floor is officially on fire. Keep it up.</string>
 <key>vibe15</key>
 <string>🥂   ＶＩＢＥ ＣＨＥＣＫ   🥂   ──   How are we feeling out there? Make some noise!</string>
+<key>vibe16</key>
+<string>⟡   ＨＹＰＮＯＴＩＣ   ⟡   ──   This bassline has me questioning whether I have bones or jelly.</string>
+<key>vibe17</key>
+<string>◉   ＯＲＢＩＴ   ◉   ──   We are all just satellites revolving around this DJ booth right now.</string>
+<key>vibe18</key>
+<string>▪   ＣＯＬＬＥＣＴＩＶＥ ＣＯＮＳＣＩＯＵＳＮＥＳＳ   ▪   ──   Thirty strangers, one heartbeat. This is what music does.</string>
+<key>vibe19</key>
+<string>◇   ＺＥＲＯ ＧＲＡＶＩＴＹ   ◇   ──   The bass just took the floor out from under us and honestly I am not complaining.</string>
+<key>vibe20</key>
+<string>⊹   ＣＯＮＴＡＧＩＯＵＳ   ⊹   ──   Warning: the energy in this room is highly infectious. Side effects include happiness.</string>
+<key>vibe21</key>
+<string>▸   ＰＥＡＫ ＨＯＵＲ   ▸   ──   This is the moment. Right here. Right now. Nothing else matters.</string>
+<key>vibe22</key>
+<string>◎   ＳＯＮＩＣ ＡＲＣＨＩＴＥＣＴＵＲＥ   ◎   ──   The DJ is not playing music. They are building a cathedral of sound.</string>
+<key>vibe23</key>
+<string>⚡   ＣＨＡＲＧＥＤ   ⚡   ──   The room is electric. Touch the dancefloor at your own risk.</string>
+<key>vibe24</key>
+<string>✦   ＴＲＡＮＳＣＥＮＤＥＮＣＥ   ✦   ──   Close your eyes and let the music do the seeing for you.</string>
+<key>vibe25</key>
+<string>▣   ＮＯ ＷＡＬＬＦＬＯＷＥＲＳ   ▣   ──   If you are standing still, the bass will find you and fix that.</string>
+<key>vibe26</key>
+<string>◈   ＶＥＬＶＥＴ ＢＡＳＳ   ◈   ──   So smooth it should come with a thread count. Absolute luxury.</string>
+<key>vibe27</key>
+<string>▹   ＥＮＤＯＲＰＨＩＮ ＲＥＬＥＡＳＥ   ▹   ──   The brain just received a memo from the bass. Memo reads: dance.</string>
+<key>vibe28</key>
+<string>⊞   ＦＬＯＷ ＳＴＡＴＥ   ⊞   ──   The music is not background noise. It is the main character tonight.</string>
+<key>vibe29</key>
+<string>◌   ＭＩＤＮＩＧＨＴ ＡＬＣＨＥＭＹ   ◌   ──   Turning beats into gold and strangers into friends. That is the recipe.</string>
+<key>vibe30</key>
+<string>✶   ＵＮＳＴＯＰＰＡＢＬＥ   ✶   ──   The vibe has its own momentum now. We are just passengers. Enjoy the ride.</string>
 
 <!-- ==========================================
-     CATEGORY 4: DJ DROPS & HYPE (drop1 - drop15)
-     Use these to highlight transitions and track energy.
+     CATEGORY 4: DJ DROPS & HYPE (drop1 - drop20)
      ========================================== -->
 <key>drop1</key>
 <string>⚡   ＩＮＣＯＭＩＮＧ   ⚡   ──   Brace yourselves. The drop is here.</string>
@@ -124,25 +191,63 @@
 <string>🥵   ＦＩＬＴＨＹ ＢＥＡＴＳ   🥵   ──   Disgustingly good bassline on this one.</string>
 <key>drop15</key>
 <string>🏆   ＡＮＴＨＥＭ ＡＬＥＲＴ   🏆   ──   Absolute classic incoming. Sing along if you know it.</string>
+<key>drop16</key>
+<string>🎰   ＪＡＣＫＰＯＴ   🎰   ──   Track selection so perfect it should be statistically impossible.</string>
+<key>drop17</key>
+<string>🧲   ＭＡＧＮＥＴＩＣ ＭＩＸＩＮＧ   🧲   ──   These transitions are pulling us in and never letting go.</string>
+<key>drop18</key>
+<string>🌋   ＥＲＵＰＴＩＯＮ   🌋   ──   The decks are overflowing with heat. This track is molten.</string>
+<key>drop19</key>
+<string>💉   ＩＮＪＥＣＴＥＤ   💉   ──   That beat just went straight into the bloodstream. No filter needed.</string>
+<key>drop20</key>
+<string>🧬   ＤＮＡ ＯＦ ＴＨＥ ＮＩＧＨＴ   🧬   ──   This track is coded into the very fabric of tonight. Unforgettable.</string>
 
 <!-- ==========================================
-     CATEGORY 5: DJ TRACK REQUESTS (req1 - req5)
-     Use these to solicit interaction from the crowd.
+     CATEGORY 5: DJ TRACK REQUESTS (req1 - req20)
      ========================================== -->
 <key>req1</key>
 <string>💿   ＴＲＡＣＫ ＲＥＱＵＥＳＴＳ   💿   ──   The floor is open. Drop your request in local chat for me.</string>
 <key>req2</key>
-<string>🎧   ＭＡＥＳＴＲＯ ＩＮＰＵＴ   🎧   ──   I'm lining up the next set. What do you want to hear?</string>
+<string>🎧   ＭＡＥＳＴＲＯ ＩＮＰＵＴ   🎧   ──   I am lining up the next set. What do you want to hear?</string>
 <key>req3</key>
 <string>🎤   ＶＯＩＣＥ ＯＦ ＴＨＥ ＰＥＯＰＬＥ   🎤   ──   The DJ is taking requests. Tell us your anthem.</string>
 <key>req4</key>
 <string>📩   ＳＯＵＮＤ ＳＵＧＧＥＳＴＩＯＮＳ   📩   ──   Hit me with your best track requests right now.</string>
 <key>req5</key>
 <string>🔍   ＣＵＲＡＴＩＮＧ   🔍   ──   Looking through the chat for the next perfect track. Drop a request.</string>
+<key>req6</key>
+<string>📝   ＯＰＥＮ ＳＥＳＳＩＯＮ   📝   ──   The decks are open for your direction. Name a track.</string>
+<key>req7</key>
+<string>🗳️   ＤＥＭＯＣＲＡＣＹ ＯＦ ＳＯＵＮＤ   🗳️   ──   Your vote matters. Drop your track and the people will decide.</string>
+<key>req8</key>
+<string>🔮   ＷＨＡＴ ＤＯ ＷＥ ＷＡＮＴ   🔮   ──   The crystal ball says the next track is... whatever you tell me. Go.</string>
+<key>req9</key>
+<string>📡   ＴＲＡＮＳＭＩＳＳＩＯＮ ＯＰＥＮ   📡   ──   The frequency is unlocked. Send your requests through.</string>
+<key>req10</key>
+<string>🎯   ＦＩＲＥ ＡＷＡＹ   🎯   ──   Aim your best request at the DJ booth. We dare you.</string>
+<key>req11</key>
+<string>📻   ＬＩＳＴＥＮＥＲ ＨＯＴＬＩＮＥ   📻   ──   The request line is open. What are we playing next?</string>
+<key>req12</key>
+<string>🧩   ＭＩＳＳＩＮＧ ＰＩＥＣＥ   🧩   ──   The set is almost perfect. Only your request can complete it.</string>
+<key>req13</key>
+<string>💡   ＩＮＳＰＩＲＥ ＴＨＥ ＤＪ   💡   ──   Give me a mood, a genre, or a track. Let us build this together.</string>
+<key>req14</key>
+<string>🎁   ＤＥＤＩＣＡＴＩＯＮ ＳＬＯＴ   🎁   ──   Want to dedicate a track to someone special? Drop it in chat.</string>
+<key>req15</key>
+<string>🪄   ＷＩＳＨ ＧＲＡＮＴＥＤ   🪄   ──   Name the track and the DJ shall deliver. Conditions: it must slap.</string>
+<key>req16</key>
+<string>📋   ＳＥＴＬＩＳＴ ＥＤＩＴ   📋   ──   The setlist has one blank space left. Whose request fills it?</string>
+<key>req17</key>
+<string>🔊   ＬＯＵＤ ＯＰＩＮＩＯＮＳ ＷＡＮＴＥＤ   🔊   ──   Tell me what banger is stuck in your head. Let us free it.</string>
+<key>req18</key>
+<string>🎵   ＮＡＭＥ ＴＨＡＴ ＴＵＮＥ   🎵   ──   Give me the one track that would make your night. I will find it.</string>
+<key>req19</key>
+<string>🧠   ＤＪ ＴＥＬＥＰＡＴＨＹ   🧠   ──   I am trying to read the room's mind. Help me out. Drop a request.</string>
+<key>req20</key>
+<string>🗣️   ＳＰＥＡＫ ＵＰ   🗣️   ──   Quiet requests get quiet responses. Drop it loud in local chat!</string>
 
 <!-- ==========================================
-     CATEGORY 6: CALL FOR TIPS (tipr1 - tipr15)
-     Use these to prompt the room to support the staff.
+     CATEGORY 6: CALL FOR TIPS (tipr1 - tipr20)
      ========================================== -->
 <key>tipr1</key>
 <string>💸   ＳＵＰＰＯＲＴ ＴＨＥ ＳＯＵＮＤ   💸   ──   If the beat moves you, move the DJ's tip jar.</string>
@@ -174,10 +279,19 @@
 <string>👑   ＴＨＥ ＴＨＲＯＮＥ   👑   ──   We are currently accepting formal applications for top tipper.</string>
 <key>tipr15</key>
 <string>🎵   ＣＨＡＮＧＥ ＴＨＥ ＦＲＥＱＵＥＮＣＹ   🎵   ──   ...by dropping some change. Support the art.</string>
+<key>tipr16</key>
+<string>🏧   ＷＩＴＨＤＲＡＷ ＫＩＮＤＮＥＳＳ   🏧   ──   The minimum tip is zero but the recommended tip is generosity.</string>
+<key>tipr17</key>
+<string>🪙   ＣＯＩＮ ＯＰＥＲＡＴＥＤ   🪙   ──   This DJ runs on tips and compliments. Both jars are now open.</string>
+<key>tipr18</key>
+<string>📈   ＴＲＥＮＤＩＮＧ ＵＰ   📈   ──   The track selection is going up. The tip jar should follow.</string>
+<key>tipr19</key>
+<string>🧲   ＡＴＴＲＡＣＴ ＡＢＵＮＤＡＮＣＥ   🧲   ──   Good energy in, good energy out. The tip jars radiate gratitude.</string>
+<key>tipr20</key>
+<string>💰   ＰＲＥＭＩＵＭ ＳＯＵＮＤ ＴＡＸ   💰   ──   Free entry, free music, optional generosity. The tip jars are right there.</string>
 
 <!-- ==========================================
-     CATEGORY 7: TIP THANKS - GENERAL (thx1 - thx10)
-     Use these to acknowledge tips without names.
+     CATEGORY 7: TIP THANKS - GENERAL (thx1 - thx20)
      ========================================== -->
 <key>thx1</key>
 <string>💎   ＰＲＥＭＩＵＭ ＧＥＮＥＲＯＳＩＴＹ   💎   ──   A massive thank you for the tip! It means the world.</string>
@@ -199,10 +313,30 @@
 <string>💰   ＳＥＣＵＲＩＮＧ ＴＨＥ ＢＡＧ   💰   ──   Tip received and intensely appreciated. Thank you.</string>
 <key>thx10</key>
 <string>🌟   ＬＥＧＥＮＤＡＲＹ   🌟   ──   That tip was legendary. Thank you for elevating the night.</string>
+<key>thx11</key>
+<string>🫶   ＷＡＲＭ ＦＵＺＺＩＥＳ   🫶   ──   That tip just gave the whole team butterflies. Thank you.</string>
+<key>thx12</key>
+<string>🪙   ＫＡ ＣＨＩＮＧ   🪙   ──   The sound of generosity is our favorite music tonight. Thank you.</string>
+<key>thx13</key>
+<string>📈   ＳＴＯＣＫ ＲＩＳＩＮＧ   📈   ──   Your investment in this night just paid dividends. Thank you!</string>
+<key>thx14</key>
+<string>🎯   ＢＵＬＬＳＥＹＥ   🎯   ──   That tip hit the jar perfectly. Aim and generosity on point. Thank you.</string>
+<key>thx15</key>
+<string>🧡   ＨＥＡＲＴＦＥＬＴ   🧡   ──   Every single tip keeps the magic alive. Genuinely, thank you.</string>
+<key>thx16</key>
+<string>🎁   ＵＮＷＲＡＰＰＥＤ   🎁   ──   That tip was a gift and we are grateful for it. Thank you.</string>
+<key>thx17</key>
+<string>⚡   ＡＭＰＥＤ ＵＰ   ⚡   ──   That generous tip just recharged the entire booth. Thank you!</string>
+<key>thx18</key>
+<string>🍯   ＳＷＥＥＴ   🍯   ──   A sweet gesture from a sweet soul. The team thanks you.</string>
+<key>thx19</key>
+<string>🌠   ＳＨＯＯＴＩＮＧ ＳＴＡＲ   🌠   ──   That tip shot across the room and lit up our night. Thank you.</string>
+<key>thx20</key>
+<string>🤝   ＲＥＳＰＥＣＴ   🤝   ──   Mutual respect is the currency of great nights. Thank you for the tip.</string>
 
 <!-- ==========================================
-     CATEGORY 8: TIP THANKS - PERSONALIZED (thxp1 - thxp10)
-     Use these to thank specific tippers. Replace [Name].
+     CATEGORY 8: TIP THANKS - PERSONALIZED (thxp1 - thxp20)
+     Replace [Name].
      ========================================== -->
 <key>thxp1</key>
 <string>💎   ＰＲＥＭＩＵＭ ＶＩＢＥＳ   💎   ──   A massive thank you to [Name] for the generosity!</string>
@@ -213,7 +347,7 @@
 <key>thxp4</key>
 <string>💳   ＳＵＰＰＯＲＴ   💳   ──   The energy is free, but the curation is an art. Big thanks to [Name].</string>
 <key>thxp5</key>
-<string>🔥   ＦＩＲＥＣＲＡＣＫＥＲ   🔥   ──   [Name] just dropped a premium tip! Let's go!</string>
+<string>🔥   ＦＩＲＥＣＲＡＣＫＥＲ   🔥   ──   [Name] just dropped a premium tip! Let us go!</string>
 <key>thxp6</key>
 <string>🤍   ＥＮＤＬＥＳＳ ＬＯＶＥ   🤍   ──   I appreciate the love, [Name]. This next track is for you.</string>
 <key>thxp7</key>
@@ -224,10 +358,29 @@
 <string>🌟   ＳＨＩＮＩＮＧ   🌟   ──   Thank you for the light and the generous tip, [Name].</string>
 <key>thxp10</key>
 <string>🙏   ＧＲＡＴＩＴＵＤＥ   🙏   ──   Sending a formal thank you over to [Name] for the amazing tip.</string>
+<key>thxp11</key>
+<string>🪩   ＤＩＳＣＯ ＨＥＲＯ   🪩   ──   [Name] is single-handedly keeping this party funded. Legend. Thank you!</string>
+<key>thxp12</key>
+<string>📣   ＡＮＮＯＵＮＣＥＭＥＮＴ   📣   ──   Let the record show that [Name] has excellent taste and even better generosity.</string>
+<key>thxp13</key>
+<string>🏅   ＧＯＬＤ ＳＴＡＮＤＡＲＤ   🏅   ──   [Name] just set the gold standard for tonight. Incredible tip!</string>
+<key>thxp14</key>
+<string>❤️‍🔥   ＨＥＡＲＴ ＯＮ ＦＩＲＥ   ❤️‍🔥   ──   [Name], that tip warmed our hearts and funded our dreams. Thank you!</string>
+<key>thxp15</key>
+<string>🎪   ＳＨＯＷＳＴＯＰＰＥＲ   🎪   ──   [Name] just stopped the show with that generosity. Standing ovation!</string>
+<key>thxp16</key>
+<string>💫   ＳＴＡＲ ＰＯＷＥＲ   💫   ──   [Name] radiates good vibes and great tips. Thank you, superstar.</string>
+<key>thxp17</key>
+<string>🧁   ＳＷＥＥＴ ＧＥＳＴＵＲＥ   🧁   ──   [Name] just made the night a little sweeter. Thank you!</string>
+<key>thxp18</key>
+<string>🎖️   ＨＯＮＯＲ ＲＯＬＬ   🎖️   ──   Officially adding [Name] to tonight's honor roll. Thank you for the tip!</string>
+<key>thxp19</key>
+<string>🌹   ＣＬＡＳＳ ＡＣＴ   🌹   ──   [Name], that was the definition of generosity with grace. Thank you.</string>
+<key>thxp20</key>
+<string>🏰   ＣＡＳＴＬＥ ＢＵＩＬＤＥＲ   🏰   ──   [Name] is building tonight's kingdom one tip at a time. Thank you!</string>
 
 <!-- ==========================================
-     CATEGORY 9: FAREWELLS - GENERAL (bye1 - bye10)
-     Use these to say goodbye to the room at the end of the set.
+     CATEGORY 9: FAREWELLS - GENERAL (bye1 - bye20)
      ========================================== -->
 <key>bye1</key>
 <string>🌌   ＵＮＴＩＬ ＮＥＸＴ ＴＩＭＥ   🌌   ──   Thank you for sharing your energy with us. Safe travels.</string>
@@ -249,10 +402,30 @@
 <string>💯   ＡＢＳＯＬＵＴＥ ＰＥＲＦＥＣＴＩＯＮ   💯   ──   I loved every second of tonight. Thank you all. Goodnight.</string>
 <key>bye10</key>
 <string>✌️   ＰＥＡＣＥ ＡＮＤ ＬＯＶＥ   ✌️   ──   Sending you all out with good vibes. See you at the next one.</string>
+<key>bye11</key>
+<string>🕯️   ＬＡＳＴ ＬＩＧＨＴ   🕯️   ──   The candle is flickering but the warmth of tonight stays. Goodnight.</string>
+<key>bye12</key>
+<string>📖   ＴＨＥ ＥＮＤＩＮＧ   📖   ──   Every great story deserves a beautiful ending. This was ours. Goodnight.</string>
+<key>bye13</key>
+<string>🛏️   ＰＩＬＬＯＷ ＣＡＬＬＩＮＧ   🛏️   ──   The pillow is calling and the bass has stopped. Time to rest. Goodnight.</string>
+<key>bye14</key>
+<string>🔒   ＬＯＣＫＩＮＧ ＵＰ   🔒   ──   The doors are closed, the lights are off. Thank you for an incredible night.</string>
+<key>bye15</key>
+<string>🎬   ＴＨＡＴ ＩＳ Ａ ＷＲＡＰ   🎬   ──   Director says cut. What a flawless production tonight. Goodnight.</string>
+<key>bye16</key>
+<string>🌠   ＳＴＡＲＬＩＴ ＥＸＩＴ   🌠   ──   Walking out under the stars after a night like this feels right. Thank you.</string>
+<key>bye17</key>
+<string>🎭   ＣＵＲＴＡＩＮ ＣＡＬＬ   🎭   ──   Take a bow, everyone. You were all magnificent tonight. Goodnight.</string>
+<key>bye18</key>
+<string>🧳   ＳＥＥ ＹＯＵ ＡＴ ＴＨＥ ＮＥＸＴ ＧＡＴＥ   🧳   ──   Boarding has ended. The next departure is soon. Safe travels.</string>
+<key>bye19</key>
+<string>💤   ＤＲＥＡＭ ＩＮ ＢＡＳＳ   💤   ──   May the basslines echo in your dreams tonight. Goodnight, legends.</string>
+<key>bye20</key>
+<string>🫡   ＯＶＥＲ ＡＮＤ ＯＵＴ   🫡   ──   Mission accomplished. Sleep well. We reconvene at the next event.</string>
 
 <!-- ==========================================
-     CATEGORY 10: FAREWELLS - PERSONALIZED (byep1 - byep5)
-     Use these to say goodbye to specific individuals. Replace [Name].
+     CATEGORY 10: FAREWELLS - PERSONALIZED (byep1 - byep20)
+     Replace [Name].
      ========================================== -->
 <key>byep1</key>
 <string>🌌   ＳＡＦＥ ＴＲＡＶＥＬＳ   🌌   ──   Thank you for moving with me tonight. Safe travels, [Name].</string>
@@ -264,6 +437,36 @@
 <string>🌙   ＳＷＥＥＴ ＤＲＥＡＭＳ   🌙   ──   Rest well, [Name]. Thanks for bringing the energy.</string>
 <key>byep5</key>
 <string>💎   ＳＴＡＹ ＰＲＥＭＩＵＭ   💎   ──   Keep shining, [Name]. Catch you at the next event.</string>
+<key>byep6</key>
+<string>🫶   ＡＬＷＡＹＳ Ａ ＰＬＥＡＳＵＲＥ   🫶   ──   [Name], tonight was better because you were here. Until next time.</string>
+<key>byep7</key>
+<string>🌟   ＳＴＡＲ ＤＥＰＡＲＴＵＲＥ   🌟   ──   The sky loses a star as [Name] heads out. Goodnight, legend.</string>
+<key>byep8</key>
+<string>🎭   ＥＮＣＯＲＥ ＰＥＮＤＩＮＧ   🎭   ──   This is not goodbye, [Name]. It is a pause before the encore.</string>
+<key>byep9</key>
+<string>✈️   ＣＬＥＡＲＥＤ ＦＯＲ ＴＡＫＥＯＦＦ   ✈️   ──   [Name] is departing the gate. Safe skies and smooth landings.</string>
+<key>byep10</key>
+<string>🦋   ＦＬＵＴＴＥＲ ＡＷＡＹ   🦋   ──   Fly safe, [Name]. The dancefloor will miss your energy.</string>
+<key>byep11</key>
+<string>🔖   ＢＯＯＫＭＡＲＫＥＤ   🔖   ──   Saving [Name]'s spot for next time. Goodnight and take care.</string>
+<key>byep12</key>
+<string>🚀   ＬＡＵＮＣＨ ＳＥＱＵＥＮＣＥ   🚀   ──   [Name] is blasting off to dreamland. See you in orbit next time.</string>
+<key>byep13</key>
+<string>☕   ＭＯＲＮＩＮＧ ＣＯＦＦＥＥ   ☕   ──   [Name], you earned a strong coffee tomorrow. Thank you for tonight.</string>
+<key>byep14</key>
+<string>🎵   ＬＡＳＴ ＮＯＴＥ   🎵   ──   The last note of [Name]'s playlist tonight. Beautiful performance. Goodnight.</string>
+<key>byep15</key>
+<string>🏠   ＨＯＭＥ ＢＯＵＮＤ   🏠   ──   [Name] is heading home with a heart full of music. See you soon.</string>
+<key>byep16</key>
+<string>🌊   ＤＲＩＦＴ ＡＷＡＹ   🌊   ──   [Name], let the rhythm carry you gently into the night. Goodnight.</string>
+<key>byep17</key>
+<string>📸   ＳＮＡＰＳＨＯＴ   📸   ──   Capturing this moment with [Name] before you go. Until next time.</string>
+<key>byep18</key>
+<string>🧭   ＳＡＦＥ ＰＡＳＳＡＧＥ   🧭   ──   [Name], may your path be smooth and your playlists be fire. Goodnight.</string>
+<key>byep19</key>
+<string>💫   ＣＡＴＣＨ ＹＯＵ ＬＡＴＥＲ   💫   ──   [Name], do not be a stranger. We will keep the bass warm for you.</string>
+<key>byep20</key>
+<string>🌈   ＡＦＴＥＲ ＴＨＥ ＳＴＯＲＭ   🌈   ──   [Name], tonight was electric. Rest up for the next one. Goodnight.</string>
 
 </map>
 </map>
