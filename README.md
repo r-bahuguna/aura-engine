@@ -27,23 +27,14 @@ By importing this configuration, you are simply loading a carefully curated dict
 
 ### ⟡  ＨＯＷ ＴＯ ＩＮＳＴＡＬＬ （ＦＩＲＥＳＴＯＲＭ）
 
-**Step 1:** Download the `auto_replace_master.xml` file directly from this repository to your computer.
+**1. The Download**
+Save the `auto_replace_master.xml` file directly from this repository to your computer.
 
-**Step 2:** Open your Firestorm Viewer.
+**2. The Import**
+In Firestorm, navigate to **Preferences ➝ Chat ➝ Typing ➝ Auto-Replace**. Click **[ Import ]**, select the downloaded XML file, and choose **[ Replace ]**.
 
-**Step 3:** Navigate to **Preferences** (Ctrl+P or Cmd+P).
-
-**Step 4:** Go to the **Chat** tab, then select the **Typing** sub-tab.
-
-**Step 5:** Look for the **Auto Replace** section and click the **Import** button.
-
-**Step 6:** Select the `auto_replace_master.xml` file you downloaded. 
-
-**Step 7:** Select your new **"Aura - Premium"** list in Auto-Replace.
-
-**Step 8:** Click the **[ UP ARROW ]** until it sits at the absolute top.
-
-**Step 9:** Ensure the box next to **"Enable auto-replacement"** is checked.
+**3. The Activation**
+Select your new **"Aura - Premium"** list and click the **[ UP ARROW ]** until it sits at the absolute top. Ensure **"Enable auto-replacement"** is checked.
 
 *You are now equipped with the Aura Engine vocabulary.*
 
