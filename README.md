@@ -33,7 +33,7 @@ By importing this configuration, you are simply loading a carefully curated dict
 
 **Step 3:** Navigate to **Preferences** (Ctrl+P or Cmd+P).
 
-**Step 4:** Go to the **Chat** tab, then select the **Text Input** sub-tab.
+**Step 4:** Go to the **Chat** tab, then select the **Typing** sub-tab.
 
 **Step 5:** Look for the **Auto Replace** section and click the **Import** button.
 
