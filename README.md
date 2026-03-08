@@ -39,7 +39,11 @@ By importing this configuration, you are simply loading a carefully curated dict
 
 **Step 6:** Select the `auto_replace_master.xml` file you downloaded. 
 
-**Step 7:** Ensure the box next to **"Enable auto-replacement"** is checked.
+**Step 7:** Select your new **"Aura - Premium"** list in Auto-Replace.
+
+**Step 8:** Click the **[ UP ARROW ]** until it sits at the absolute top.
+
+**Step 9:** Ensure the box next to **"Enable auto-replacement"** is checked.
 
 *You are now equipped with the Aura Engine vocabulary.*
 
