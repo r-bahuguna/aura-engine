@@ -47,12 +47,12 @@ By importing this configuration, you are simply loading a carefully curated dict
 
 ### ⚡  ＵＳＡＧＥ ＥＸＡＭＰＬＥＳ
 
-Once installed, typing a short command block will automatically expand before you even hit enter.
+Once installed, simply type a short keyword followed by a `Space`, and it will automatically expand.
 
-*   Type `/w1` ➔ Expands to: `✧   ＷＥＬＣＯＭＥ ＴＯ ＴＨＥ ＮＩＧＨＴ   ✧   ──   Step in, let go, and let the music take over.`
-*   Type `/thx1` ➔ Expands to: `💎   ＰＲＥＭＩＵＭ ＧＥＮＥＲＯＳＩＴＹ   💎   ──   A massive thank you for the tip! It means the world.`
-*   Type `/drop1` ➔ Expands to: `⚡   ＩＮＣＯＭＩＮＧ   ⚡   ──   Brace yourselves. The drop is here.`
-*   Type `/bye1` ➔ Expands to: `🌌   ＵＮＴＩＬ ＮＥＸＴ ＴＩＭＥ   🌌   ──   Thank you for sharing your energy with us. Safe travels.`
+*   Type `w1` + `Space` ➔ Expands to: `✧   ＷＥＬＣＯＭＥ ＴＯ ＴＨＥ ＮＩＧＨＴ   ✧   ──   Step in, let go, and let the music take over.`
+*   Type `thx1` + `Space` ➔ Expands to: `💎   ＰＲＥＭＩＵＭ ＧＥＮＥＲＯＳＩＴＹ   💎   ──   A massive thank you for the tip! It means the world.`
+*   Type `drop1` + `Space` ➔ Expands to: `⚡   ＩＮＣＯＭＩＮＧ   ⚡   ──   Brace yourselves. The drop is here.`
+*   Type `bye1` + `Space` ➔ Expands to: `🌌   ＵＮＴＩＬ ＮＥＸＴ ＴＩＭＥ   🌌   ──   Thank you for sharing your energy with us. Safe travels.`
 
 *For the complete list of available triggers, simply open the XML file in any basic text editor or view it directly here on GitHub.*
 
